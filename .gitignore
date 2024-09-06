@@ -1,1 +1,6 @@
 .venv
+prompt.txt
+WineQualityClassification/main.ipynb
+WineQualityClassification/res/wine.csv
+WineQualityClassification/res/winequality-white.csv
+WineQualityClassification/wine_quality_classification.ipynb
